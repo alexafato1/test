@@ -17,7 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.alexamalakdev.reminderdi",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.alekamalakdev.reminderdi",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
